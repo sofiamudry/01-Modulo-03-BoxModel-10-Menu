@@ -1,0 +1,19 @@
+nav {
+    width: fit-content;
+    height: 6vh;
+    background-color: blue;
+}
+
+ul {
+    padding: 0;
+}
+
+ul li {
+    display: inline-block;
+}
+
+ul li a {
+    font-size: 11px;
+    text-decoration: none;
+
+}
